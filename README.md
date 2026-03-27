@@ -1,6 +1,7 @@
 Welcome to OpenWebUI-Manager "O.W.M."
 
 If you like this try out ollamamodel-manager for managing your ollama models
+"https://github.com/NotADeveloper4665/ollamamodel-manager"
 
 -How to Install O.W.M.
 
